@@ -1,6 +1,6 @@
 // Point this at your deployed backend (e.g. "https://lane-api.onrender.com").
 // Defaults to a local FastAPI dev server (`uvicorn main:app --reload`).
-const API_URL = "http://localhost:8000";
+const API_URL = "https://ghyoco-lane-detection.hf.space";
 
 const MAX_BYTES = 100 * 1024 * 1024;
 
